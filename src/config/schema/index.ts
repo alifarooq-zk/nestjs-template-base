@@ -1,4 +1,4 @@
-import { z } from 'nestjs-zod/z';
+import { z } from 'zod';
 
 /**
  * @description This is the schema for the .env file.
